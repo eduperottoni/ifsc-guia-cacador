@@ -1,4 +1,4 @@
-# Caçador pela turma
+# Caçador pela turma de Informática do IFSC
 
 ## Cultura e Arte
 
