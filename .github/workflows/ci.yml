@@ -18,4 +18,4 @@ jobs:
           python-version: "3.12"
 
       - name: Conferir o formato do guia.md
-        run: python3 verificar.py guia.md
+        run: python3 scripts/verificar.py guia.md
