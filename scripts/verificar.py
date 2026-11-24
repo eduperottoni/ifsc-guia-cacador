@@ -18,7 +18,7 @@ import re
 import sys
 import unicodedata
 
-TITULO = "# Caçador pela turma"
+TITULO = "# Caçador pela turma de Informática do IFSC"
 
 SECOES = [
     "Cultura e Arte",
