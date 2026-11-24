@@ -2,8 +2,8 @@ name: Verificar guia
 
 on:
   pull_request:
-  push:
     branches: [main]
+  workflow_dispatch:
 
 jobs:
   verificar:
